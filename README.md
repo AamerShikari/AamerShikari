@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working on the anime_reviewer Repo!
+
+👯 I’m looking to collaborate on interesting open source projects!
+
+📫 How to reach me:
+<ul>
+  <li> <a href="https://www.linkedin.com/in/aamer-shikari/"> My Linkedin! </a> </li>
+  <li> <a href = "mailto: shikariaamer@gmail.com">Send an Email</a> </li>
+</ul>
 <!--
 **AamerShikari/AamerShikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
