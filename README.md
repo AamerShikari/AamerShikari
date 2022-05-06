@@ -7,7 +7,7 @@
 📫 How to reach me:
 <ul>
   <li> <a href="https://www.linkedin.com/in/aamer-shikari/"> My Linkedin! </a> </li>
-  <li> <a href = "mailto: shikariaamer@gmail.com">Send an Email:</a> shikariaamer@gmail.com </li>
+  <li> Send an Email:<a href = "mailto: shikariaamer@gmail.com">Send an Email:shikariaamer@gmail.com</a></li>
 </ul>
 <!--
 **AamerShikari/AamerShikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
